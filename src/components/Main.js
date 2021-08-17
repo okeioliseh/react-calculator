@@ -40,7 +40,7 @@ class Main extends Component{
 
 		}else if(val == "("){
 			this.setState({
-				operation : this.state.operation + "/" + val
+				operation : this.state.operation + "*" + val
 			})
 
 		}else{
