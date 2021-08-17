@@ -1,0 +1,14 @@
+.calculator{
+	width : 200px;
+	height : 370px;
+	border-style : solid;
+}
+.result{
+	width : 100%;
+	height : 25%;
+	border-bottom-style : solid;
+}
+.keypadBtn{
+	width : 60px;
+	height : 45px;
+}
