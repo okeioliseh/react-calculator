@@ -1,11 +1,11 @@
 .calculator{
 	width : 250px;
-	height : 500px;
+	height : 490px;
 	border-style : solid;
 }
 .result{
 	width : 100%;
-	height : 25%;
+	height : 20%;
 	border-bottom-style : solid;
 }
 .keypadBtn{
