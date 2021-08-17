@@ -38,6 +38,11 @@ class Main extends Component{
 		}else if(val === "Clear"){
 			this.clear()
 
+		}else if(val == "("){
+			this.setState({
+				operation : this.state.operation + "/" + val
+			})
+
 		}else{
 			this.setState({
 				operation : this.state.operation + val
